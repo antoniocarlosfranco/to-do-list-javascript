@@ -17,3 +17,7 @@ This project is under the MIT License.
 
 Developed by Antonio Carlos Franco. 🚀📗
 <hr/>
+
+![capture](https://github.com/antoniocarlosfranco/to-do-list-javascript/assets/20141007/3d376083-f4b2-49a8-aebc-2ce3a22f0e91)
+
+
